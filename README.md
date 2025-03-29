@@ -13,9 +13,9 @@ Setiap topik pembelajaran dikelompokkan berdasarkan minggu. Klik tautan di bawah
 |--------|--------------------|------|
 | 01 | Java Introduction | [Lihat di sini](https://github.com/andythoriq/TeknikPemrograman/tree/minggu-01) |
 | 02 | Fundamental Programming Structures in Java | [Lihat di sini](https://github.com/andythoriq/TeknikPemrograman/tree/minggu-02) |
-| 02 | Interaksi kelas pada java | [Lihat di sini](https://github.com/andythoriq/TeknikPemrograman/tree/minggu-02-teori) |
+|  | Interaksi kelas pada java | [Lihat di sini](https://github.com/andythoriq/TeknikPemrograman/tree/minggu-02-teori) |
 | 03 | Classification, Generalization & Specialization (Kasus 1) | [Lihat di sini](https://github.com/andythoriq/TeknikPemrograman/tree/minggu-03) |
-| 03 | Classification, Generalization & Specialization (Kasus 2) | [Lihat di sini](https://github.com/andythoriq/TeknikPemrograman/tree/minggu-03-2) |
+|  | Classification, Generalization & Specialization (Kasus 2) | [Lihat di sini](https://github.com/andythoriq/TeknikPemrograman/tree/minggu-03-2) |
 | 04 | Interface, Abstract Class, Inheritance, Polymorphism | [Lihat di sini](https://github.com/andythoriq/TeknikPemrograman/tree/minggu-04) |
 | 05 | Java Collection Framework | [Lihat di sini](https://github.com/andythoriq/TeknikPemrograman/tree/minggu-05) |
 | 06 | Defensive Programming | [Lihat di sini](https://github.com/andythoriq/TeknikPemrograman/tree/minggu-06) |
