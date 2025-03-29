@@ -1,6 +1,6 @@
 # 📘 Teknik Pemrograman
 
-Selamat datang di repository **TeknikPemrograman**! 🎉  
+Selamat datang di repository **TeknikPemrograman**!  
 Repository ini berisi berbagai konsep pemrograman, best practices, serta implementasi teknik pemrograman menggunakan **Java** dan paradigma **OOP**.  
 Setiap pembelajaran disimpan dalam branch tersendiri berdasarkan **minggu pembelajaran**.
 
@@ -19,6 +19,7 @@ Setiap topik pembelajaran dikelompokkan berdasarkan minggu. Klik tautan di bawah
 | 04 | Interface, Abstract Class, Inheritance, Polymorphism | [Lihat di sini](https://github.com/andythoriq/TeknikPemrograman/tree/minggu-04) |
 | 05 | Java Collection Framework | [Lihat di sini](https://github.com/andythoriq/TeknikPemrograman/tree/minggu-05) |
 | 06 | Defensive Programming | [Lihat di sini](https://github.com/andythoriq/TeknikPemrograman/tree/minggu-06) |
+| 07 | Coupling and Cohesian | [Lihat di sini](https://github.com/andythoriq/TeknikPemrograman/tree/minggu-07) |
 
 > **Catatan:**  
 > Silakan cek masing-masing branch untuk melihat kode dan materi pembelajaran di setiap minggu.
