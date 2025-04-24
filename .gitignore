@@ -1,0 +1,29 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore compiled class files
+*.class
+
+# Ignore configuration files
+*.config
+*.cfg
+*.ini
+
+# Ignore build output directories
+/bin/
+/build/
+/out/
+
+# Ignore IDE-specific files
+/.idea/
+/*.iml
+
+# Ignore Maven and Gradle directories
+/.mvn/
+/target/
+/.gradle/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+*.swp
