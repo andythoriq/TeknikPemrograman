@@ -20,6 +20,8 @@ Setiap topik pembelajaran dikelompokkan berdasarkan minggu. Klik tautan di bawah
 | 05 | Java Collection Framework | [Lihat di sini](https://github.com/andythoriq/TeknikPemrograman/tree/minggu-05) |
 | 06 | Defensive Programming | [Lihat di sini](https://github.com/andythoriq/TeknikPemrograman/tree/minggu-06) |
 | 07 | Coupling and Cohesian | [Lihat di sini](https://github.com/andythoriq/TeknikPemrograman/tree/minggu-07) |
+| 08 | Generic Programming | [Lihat di sini](https://github.com/andythoriq/TeknikPemrograman/tree/minggu-08) |
+| 09 | JUnit (refactoring) | [Lihat di sini](https://github.com/andythoriq/TeknikPemrograman/tree/minggu-09) |
 
 > **Catatan:**  
 > Silakan cek masing-masing branch untuk melihat kode dan materi pembelajaran di setiap minggu.
