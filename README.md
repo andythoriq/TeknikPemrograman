@@ -22,6 +22,8 @@ Setiap topik pembelajaran dikelompokkan berdasarkan minggu. Klik tautan di bawah
 | 07 | Coupling and Cohesian | [Lihat di sini](https://github.com/andythoriq/TeknikPemrograman/tree/minggu-07) |
 | 08 | Generic Programming | [Lihat di sini](https://github.com/andythoriq/TeknikPemrograman/tree/minggu-08) |
 | 09 | JUnit (refactoring) | [Lihat di sini](https://github.com/andythoriq/TeknikPemrograman/tree/minggu-09) |
+| 10 | Clean Code | - |
+| 11 | Design Patterns | [Lihat di sini](https://github.com/andythoriq/TeknikPemrograman/tree/minggu-11) |
 
 > **Catatan:**  
 > Silakan cek masing-masing branch untuk melihat kode dan materi pembelajaran di setiap minggu.
